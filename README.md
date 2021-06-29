@@ -58,9 +58,7 @@ this is a real time deep learning project 🔥 for Emotion Facial Recognition �
 - **HACK AWAY!** 🔨🔨🔨
 
 
-## License 📝
 
-- [MIT](http://opensource.org/licenses/mit-license.php) License.
 
 <h4 align="center">
 <a href="http://linkedin.com/in/raoufzoghbi">Connect me in LinkedIn </a> | <a href="https://medium.com/@raaaaouf">See my Medium </a>👀 | <a href=" ">Click here to go to my CV</a>
